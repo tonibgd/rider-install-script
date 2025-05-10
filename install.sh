@@ -1,6 +1,6 @@
 pkgname=rider
 pkgdesc='A cross-platform .NET IDE by JetBrains.'
-pkgver='2023.1'
+pkgver='2025.1.1'
 srcfile="JetBrains.Rider-$pkgver.tar.gz"
 shortcut="$pkgname.desktop"
 source="https://download.jetbrains.com/rider/$srcfile"
